@@ -1,5 +1,8 @@
 <template>
-  <WelcomePage />
+  <main>
+    <Navbar />
+    <Projects />
+  </main>
 </template>
 
 <script lang="ts">
