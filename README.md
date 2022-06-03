@@ -1,2 +1,3 @@
-# Nuxt Projects
-A collection of nuxt projects hosted on a single page app
+# Nuxt Vuetify
+Testing out both Nuxt 3 and vuetify
+![](./Screenshot.png)
